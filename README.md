@@ -135,57 +135,7 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 |--------|---------|-----|
 | PASSWORD | auto | 可以取任意值 |
 | PROXYIP |workers.cloudflare.cyou,my-telegram-is-herocore.onecf.eu.org | 作为访问CloudFlareCDN站点的代理节点(支持多ProxyIP, ProxyIP之间使用`,`或 换行 作间隔) |
-| ADD | bestcf.onecf.eu.org#官方优选域名-Mingyu大佬提供维护
-bestproxy.onecf.eu.org#反代优选域名-Mingyu大佬提供维护
-cfip.xxxxxxxx.tk#官方优选域名-OTC大佬提供维护
-proxy.xxxxxxxx.tk#反代优选域名-OTC大佬提供维护
-acjp2.cloudflarest.link:2053#反代优选域名-KJKKK大佬提供维护
-acsg.cloudflarest.link:2053#反代优选域名-KJKKK大佬提供维护
-acsg3.cloudflarest.link:2053#反代优选域名-KJKKK大佬提供维护
-xn--b6gac.eu.org#↗↘↗.eu.org官方优选域名
-cdn-all.xn--b6gac.eu.org#cdn-all.↗↘↗.eu.org官方优选域名
-cdn-b100.xn--b6gac.eu.org#cdn-b100.↗↘↗.eu.org反代优选域名
-time.cloudflare.com
-shopify.com
-time.is
-icook.hk
-icook.tw
-ip.sb
-japan.com
-malaysia.com
-russia.com
-singapore.com
-skk.moe
-www.visa.com
-www.visa.com.sg
-www.visa.com.hk
-www.visa.com.tw
-www.visa.co.jp
-www.visakorea.com
-www.gco.gov.qa
-www.gov.se
-www.gov.ua
-www.digitalocean.com
-www.csgo.com
-www.shopify.com
-www.whoer.net
-www.whatismyip.com
-www.ipget.net
-www.hugedomains.com
-www.udacity.com
-www.4chan.org
-www.okcupid.com
-www.glassdoor.com
-www.udemy.com
-alejandracaiccedo.com
-nc.gocada.co
-log.bpminecraft.com
-www.boba88slot.com
-gur.gov.ua
-www.zsu.gov.ua
-www.iakeys.com
-www.d-555.com
-fbi.gov
+| ADD | 自己猜 |
  | 本地优选域名/优选IP(支持多元素之间`,`或 换行 作间隔) |
 | ADDAPI |  | https://ipdb.api.030101.xyz/?type=bestproxy&country=true |
 | ADDCSV |  | 不解释, 懂得都懂 |
