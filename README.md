@@ -135,8 +135,7 @@ Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)
 |--------|---------|-----|
 | PASSWORD | auto | 可以取任意值 |
 | PROXYIP |workers.cloudflare.cyou,my-telegram-is-herocore.onecf.eu.org | 作为访问CloudFlareCDN站点的代理节点(支持多ProxyIP, ProxyIP之间使用`,`或 换行 作间隔) |
-| ADD | 自己猜 |
- | 本地优选域名/优选IP(支持多元素之间`,`或 换行 作间隔) |
+| ADD | 自己猜 | | 本地优选域名/优选IP(支持多元素之间`,`或 换行 作间隔) |
 | ADDAPI |  | https://ipdb.api.030101.xyz/?type=bestproxy&country=true |
 | ADDCSV |  | 不解释, 懂得都懂 |
 | DLS | 8 | 不解释, 懂得都懂 | 
